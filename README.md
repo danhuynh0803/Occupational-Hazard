@@ -7,3 +7,4 @@ Ludum Dare submission page: https://ldjam.com/events/ludum-dare/43/occupational-
 
 Play it here: https://legav.itch.io/occupational-hazard
 
+![](ld43.gif)
